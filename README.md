@@ -1,6 +1,4 @@
 <!--This is the README for the github profile-->
-<a href="https://github.com/KanoeGitHub"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=KanoeGitHub&style=flat-square" width="125"/></a>
-
 <h1 align="left" style="margin: 0px 0px -5px 0px;">About</h1>
 I'm Kanoe.<br>
 I am a graduate student at Shimane University.<br>
