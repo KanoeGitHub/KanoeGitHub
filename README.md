@@ -1,9 +1,8 @@
 <!--This is the README for the github profile-->
 <h1 align="left" style="margin: 0px 0px -5px 0px;">About</h1>
 I'm Kanoe.<br>
-I am a graduate student at Shimane University.<br>
-I am currently studying in the field of software engineering.<br>
-Music is my hobby, and I also compose music occasionally.<br>
+I was a graduate student at Shimane University and studying in the field of software engineering.<br>
+Now I'm working as a software engineere.<br>
 
 ### ▽▽▽My Links▽▽▽
 <p style="margin:-15px 0px -15px 0px;">If you have any, please DM me on Twitter. (DM is  open.)</p>
